@@ -11,12 +11,8 @@ To use the js plugin:
 p.s. requires GMAIL.
 Technologies C#, WebForms, javascript.
 
-![alt tag](https://raw.githubusercontent.com/iah10/MakeYourMeal/master/MakeYourMeal/Images/meal.png)
+![alt tag](https://raw.githubusercontent.com/iah10/AttendanceManager/master/attendance-login.png)
 
 
 
-![alt tag](https://raw.githubusercontent.com/iah10/MakeYourMeal/master/MakeYourMeal/Images/meal-cherry.png)
-
-
-
-![alt tag](https://raw.githubusercontent.com/iah10/MakeYourMeal/master/MakeYourMeal/Images/meal-order.png)
+![alt tag](https://raw.githubusercontent.com/iah10/AttendanceManager/master/attendance-proccess.png)
